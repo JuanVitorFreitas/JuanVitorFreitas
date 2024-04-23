@@ -4,7 +4,7 @@
 ### About me
 Hello World, I'm Juan, 23 years, I'm passionate about code, self-taught and I love to discover how things work, always studying and in constant learning.
 
-💻Currently working on *Provider IT - Java Developer*
+💻Currently working on *[Grupo Boticário](https://github.com/grupoboticario)* as Senior Backend
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVitorFreitas&layout=compact&theme=react&hide_border=true&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
